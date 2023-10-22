@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ff0e866.css",
+    "main.js": "/static/js/main.c36bbb48.js",
+    "static/js/787.7da6eb2c.chunk.js": "/static/js/787.7da6eb2c.chunk.js",
+    "static/media/textured-black-background.jpg": "/static/media/textured-black-background.bb84e41894c5bba5dd3c.jpg",
+    "index.html": "/index.html",
+    "main.0ff0e866.css.map": "/static/css/main.0ff0e866.css.map",
+    "main.c36bbb48.js.map": "/static/js/main.c36bbb48.js.map",
+    "787.7da6eb2c.chunk.js.map": "/static/js/787.7da6eb2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff0e866.css",
+    "static/js/main.c36bbb48.js"
+  ]
+}
